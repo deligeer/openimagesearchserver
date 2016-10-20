@@ -1,9 +1,9 @@
-[OpenSearchServer](http://www.opensearchserver.com)
-===================================================
+[OpenImageSearchServer](http://www.openimagesearchserver.com)
+============================================================
 
 [![Build Status](https://travis-ci.org/jaeksoft/opensearchserver.svg?branch=master)](https://travis-ci.org/jaeksoft/opensearchserver)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaeksoft/opensearchserver/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaeksoft/opensearchserver)
-[![Join the chat at https://gitter.im/jaeksoft/opensearchserver](https://badges.gitter.im/jaeksoft/opensearchserver.svg)](https://gitter.im/jaeksoft/opensearchserver)
+[![Join the chat at https://gitter.im/deligeer/openimagesearchserver](https://badges.gitter.im/jaeksoft/opensearchserver.svg)](https://gitter.im/deligeer/openimagesearchserver)
 
 
 Copyright Emmanuel Keller / Jaeksoft (2008-2016)
