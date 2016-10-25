@@ -6,8 +6,14 @@
 [![Join the chat at https://gitter.im/deligeer/openimagesearchserver](https://badges.gitter.im/jaeksoft/opensearchserver.svg)](https://gitter.im/deligeer/openimagesearchserver)
 
 openimagesearchserver is built base on OpenSearchServer, for OpenSearchServer please refer to http://www.opensearchserver.com.
-Copyright Deli Geer / Codeant (2005 - 2016)
-This software is licensed under the GPL v3.
+
+Main contributions of OpenImageSearchServer are:
+
+Update apache lucence from 3.6.2 to 6.2.0 w.r.t OpenSearchServer;
+
+Including Image Retrival to above OpenImageSearchServer.
+
+Copyright Deli Geer / Codeant (2005 - 2016) This software is licensed under the GPL v3.
 
 Quickstart
 ----------
