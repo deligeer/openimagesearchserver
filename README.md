@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/jaeksoft/opensearchserver.svg?branch=master)](https://travis-ci.org/jaeksoft/opensearchserver)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaeksoft/opensearchserver/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaeksoft/opensearchserver)
-[![Join the chat at https://gitter.im/deligeer/openimagesearchserver](https://badges.gitter.im/jaeksoft/opensearchserver.svg)](https://gitter.im/deligeer/openimagesearchserver)
+[![Join the chat at https://gitter.im/deligeer/openimagesearchserver](https://badges.gitter.im/deligeer/openimagesearchserver.svg)](https://gitter.im/deligeer/openimagesearchserver)
 
 openimagesearchserver is built base on OpenSearchServer, for OpenSearchServer please refer to http://www.opensearchserver.com.
 
