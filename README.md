@@ -5,11 +5,9 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaeksoft/opensearchserver/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaeksoft/opensearchserver)
 [![Join the chat at https://gitter.im/deligeer/openimagesearchserver](https://badges.gitter.im/jaeksoft/opensearchserver.svg)](https://gitter.im/deligeer/openimagesearchserver)
 
-
-Copyright Emmanuel Keller / Jaeksoft (2008-2016)
+openimagesearchserver is built base on OpenSearchServer, for OpenSearchServer please refer to http://www.opensearchserver.com.
+Copyright Deli Geer / Codeant (2005 - 2016)
 This software is licensed under the GPL v3.
-
-OpenSearchServer is a powerful, enterprise-class, search engine program. Using the web user interface, the crawlers (web, file, database, ...) and the REST/RESTFul API you will be able to integrate quickly and easily advanced full-text search capabilities in your application. OpenSearchServer runs on Linux/Unix/BSD/Windows.
 
 Quickstart
 ----------
